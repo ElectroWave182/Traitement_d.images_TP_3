@@ -1,0 +1,6 @@
+1)
+
+Les coins étant normalisés ensuite sur des nuances de gris,
+la variable "thresh" permet de mettre en place un seuil
+pour ne garder que les plus discernables.
+Un seuil à -1 laisserait ainsi passer tous les coins
